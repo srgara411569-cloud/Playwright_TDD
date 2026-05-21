@@ -52,7 +52,7 @@ export class WebCommons {
     }
 
     //Common method to type within the text box element 
-    async typeInElement(locator: string, text: string): Promise<void> {
+    async sendtext(locator: string, text: string): Promise<void> {
         const element = await this.element(locator);
         await element.click();
         await  element.clear();
