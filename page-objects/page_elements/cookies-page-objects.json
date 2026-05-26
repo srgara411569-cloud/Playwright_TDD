@@ -7,7 +7,7 @@
     "preferencesSwitchButton":"input#CybotCookiebotDialogBodyLevelButtonPreferences",
     "statisticsSwitchButton":"input#CybotCookiebotDialogBodyLevelButtonStatistics",
     "marketingSwitchButton":"input#CybotCookiebotDialogBodyLevelButtonMarketing",
-    "showDetailsLink":"a#CybotCookiebotDialogBodyContentDetailsLink",
+    "showDetailsLink":"a#CybotCookiebotDialogBodyEdgeMoreDetailsLink",
     "allowAllButton":"button#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll",
     "allowSelectionButton":"button#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelection",
     "denyButton":"button#CybotCookiebotDialogBodyButtonDecline",

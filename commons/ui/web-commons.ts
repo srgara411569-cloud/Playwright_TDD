@@ -166,6 +166,12 @@ export class WebCommons {
         throw new Error(`Unsupported locator method: ${method}`);
     }
 
+    
+  //Common method to compare the text values(actual text contained in the element and expected text)
+    async compareText(actual: string, expected: string): Promise<void> {
+        expect(actual.trim()).toContain(expected.trim());
+    }
+
 }
 
 export async function launchApplication(page: Page, url: string, title?: string): Promise<void> {
@@ -173,4 +179,5 @@ export async function launchApplication(page: Page, url: string, title?: string)
     if (title) {
         await expect(page).toHaveTitle(title);
     }
+
 }
