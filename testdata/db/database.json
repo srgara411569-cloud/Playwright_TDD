@@ -1,0 +1,3 @@
+{
+    "Verify Cookies popup content": "SELECT CONTENT FROM CREATIO WHERE tc_name = 'Verify Cookies popup content' "
+}

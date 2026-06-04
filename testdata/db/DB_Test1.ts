@@ -32,5 +32,5 @@ export class DBCommons {
 
 let db = new DBCommons();
 const query = "SELECT * FROM CATEGORY";
-const data = db.getData(query);
-console.log('data[0]', ["tc_name"]);
+const data = await db.getData(query);
+console.log(data[0]["tc_name"]);

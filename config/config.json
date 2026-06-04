@@ -8,12 +8,12 @@
     "api":{
         "url":"http://localhost:3000/api"
     },
-    "db":{
+     "db":{
         "host":"localhost",
         "port":5432,
         "username":"postgres",
-        "password":"postgres",
-        "database":"testdb"
+        "password":"Test@123456",
+        "database":"dvdrental"
     },
     "ollama":{
         "url":"http://localhost:11434",
