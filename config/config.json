@@ -1,1 +1,22 @@
-"URL": "https://playwright.dev/"
+{
+    "app":{
+        "url":"https://accounts.creatio.com/login/alm",
+        "title":"Log in | Creatio",
+        "username":"sragra411569@gmail.com",
+        "password":"Test@123456"
+    },
+    "api":{
+        "url":"http://localhost:3000/api"
+    },
+    "db":{
+        "host":"localhost",
+        "port":5432,
+        "username":"postgres",
+        "password":"postgres",
+        "database":"testdb"
+    },
+    "ollama":{
+        "url":"http://localhost:11434",
+        "model":"ollama/llama-2-7b-chat"
+    }
+}
