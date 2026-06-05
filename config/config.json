@@ -6,7 +6,9 @@
         "password":"Test@123456"
     },
     "api":{
-        "url":"http://localhost:3000/api"
+        "url":"https://api.github.com",
+        "Owner":"srgara411569-cloud"
+
     },
      "db":{
         "host":"localhost",
