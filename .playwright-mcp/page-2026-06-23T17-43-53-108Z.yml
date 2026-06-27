@@ -1,0 +1,214 @@
+- generic [ref=e2]:
+  - heading "0 notifications" [level=2] [ref=e3]
+  - generic [ref=e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=e6] [cursor=pointer]
+    - generic [ref=e9]:
+      - banner [ref=e11]:
+        - generic [ref=e14]:
+          - button [ref=e15] [cursor=pointer]
+          - generic [ref=e18]:
+            - navigation [ref=e22]:
+              - list [ref=e23]:
+                - listitem [ref=e24]:
+                  - button "Home, 1 new notification" [ref=e25] [cursor=pointer]:
+                    - img [ref=e27]
+                    - generic [ref=e29]: Home
+                - listitem [ref=e30]:
+                  - link "My Network, 0 new notifications" [ref=e31] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - img [ref=e33]
+                    - generic [ref=e35]: My Network
+                - listitem [ref=e36]:
+                  - link "Jobs, 0 new notifications" [ref=e37] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - img [ref=e39]
+                    - generic [ref=e41]: Jobs
+                - listitem [ref=e42]:
+                  - link "Messaging, 0 new notifications" [ref=e43] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - img [ref=e45]
+                    - generic [ref=e47]: Messaging
+                - listitem [ref=e48]:
+                  - link "Notifications, 4 new notifications" [ref=e49] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=e50]:
+                      - img [ref=e51]
+                      - generic [ref=e53]: "4"
+                    - generic [ref=e54]: Notifications
+                - listitem [ref=e55]:
+                  - button "Me" [ref=e56] [cursor=pointer]:
+                    - figure [ref=e58]
+                    - generic [ref=e59]: Me
+            - navigation [ref=e63]:
+              - list [ref=e64]:
+                - listitem [ref=e65]:
+                  - button "For Business" [ref=e66] [cursor=pointer]:
+                    - img [ref=e68]
+                    - generic [ref=e70]: For Business
+                - listitem [ref=e72]:
+                  - link "Hire with AI" [ref=e73] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/talent/job-posting-redirect/?trk=nav_spotlight_post_job
+                    - generic [ref=e76]: Hire with AI
+      - main [ref=e79]:
+        - generic [ref=e81]:
+          - complementary "Sidebar" [ref=e82]:
+            - generic [ref=e85]:
+              - generic [ref=e89]:
+                - link [ref=e90] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/sri-vidya-gara-904202107/
+                  - generic [ref=e91]:
+                    - figure [ref=e93]
+                    - figure [ref=e95]:
+                      - img "Sri Vidya Gara" [ref=e96]
+                - generic [ref=e97]:
+                  - link "Sri Vidya Gara, Senior SDET | AI Automation Architect | Playwright & TypeScript | Selenium with Python & C# | API | TOSCA, Hyderabad, Telangana, Verified profile" [ref=e98] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/sri-vidya-gara-904202107/
+                    - generic "Sri Vidya Gara, Senior SDET | AI Automation Architect | Playwright & TypeScript | Selenium with Python & C# | API | TOSCA, Hyderabad, Telangana, Verified profile" [ref=e99]:
+                      - paragraph [ref=e102]: Sri Vidya Gara
+                      - paragraph [ref=e105]: Senior SDET | AI Automation Architect | Playwright & TypeScript | Selenium with Python & C# | API | TOSCA
+                      - paragraph [ref=e106]: Hyderabad, Telangana
+                  - link "NTT DATA" [ref=e107] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/sri-vidya-gara-904202107/
+                    - generic [ref=e108]:
+                      - figure [ref=e109]
+                      - paragraph [ref=e110]: NTT DATA
+              - generic [ref=e111]:
+                - navigation [ref=e112]:
+                  - list [ref=e113]:
+                    - listitem [ref=e114]:
+                      - link "Preferences" [ref=e115] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/jobs/preferences/?viewType=SEEKING_PREFERENCES
+                        - generic [ref=e119]: Preferences
+                    - listitem [ref=e120]:
+                      - link "Job tracker" [ref=e121] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/jobs-tracker/
+                        - generic [ref=e125]: Job tracker
+                    - listitem [ref=e126]:
+                      - link "My Career Insights" [ref=e127] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/explore-career-insights/?job_title=1100&location=105556991
+                        - generic [ref=e131]: My Career Insights
+                - navigation [ref=e132]:
+                  - list [ref=e133]:
+                    - listitem [ref=e134]:
+                      - link "Post a free job" [ref=e135] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/talent/job-posting-redirect/?trk=flagship3_job_home
+                        - generic [ref=e139]: Post a free job
+              - generic [ref=e141]:
+                - generic [ref=e142]:
+                  - link "About" [ref=e143] [cursor=pointer]:
+                    - /url: https://about.linkedin.com/
+                    - paragraph [ref=e144]: About
+                  - link "Accessibility" [ref=e145] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/accessibility/
+                    - paragraph [ref=e146]: Accessibility
+                  - link "Help Center" [ref=e147] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/
+                    - paragraph [ref=e148]: Help Center
+                  - button "Privacy & Terms" [ref=e149] [cursor=pointer]:
+                    - paragraph [ref=e151]: Privacy & Terms
+                  - link "Ad Choices" [ref=e153] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                    - paragraph [ref=e154]: Ad Choices
+                  - link "Advertising" [ref=e155] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                    - paragraph [ref=e156]: Advertising
+                  - button "Business Services" [ref=e157] [cursor=pointer]:
+                    - paragraph [ref=e159]: Business Services
+                  - link "Get the LinkedIn app" [ref=e161] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mobile/
+                    - paragraph [ref=e162]: Get the LinkedIn app
+                  - link "More" [ref=e163] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/
+                    - paragraph [ref=e164]: More
+                - paragraph [ref=e167]: LinkedIn Corporation © 2026
+          - region "Primary content" [ref=e168]:
+            - generic [ref=e169]:
+              - generic [ref=e174]:
+                - figure [ref=e176]
+                - generic [ref=e179]:
+                  - generic [ref=e180]:
+                    - generic [ref=e181]:
+                      - paragraph [ref=e182]: Sri Vidya, hiring managers are talking about AI. Try the best models for free.
+                      - paragraph [ref=e184]: Ask a question, compare answers, and see which AI tops the leaderboard in your industry.
+                    - link "Try now" [ref=e187] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/labs/crosscheck/
+                      - generic [ref=e189]: Try now
+                  - figure [ref=e191]
+                  - button "CloseSmall" [ref=e192] [cursor=pointer]
+              - generic [ref=e197]:
+                - generic [ref=e199]:
+                  - generic [ref=e200]:
+                    - heading "Jobs based on your preferences" [level=2] [ref=e201]
+                    - paragraph [ref=e203]: Full-time Senior Test Engineer or Senior Test Analyst or Senior Software Test Engineer or Senior Test Specialist, hybrid in Hyderabad
+                  - button "Edit jobs based on your preferences" [ref=e205] [cursor=pointer]
+                - generic [ref=e208]:
+                  - link "Experian • Hyderabad (Hybrid) Dismiss Senior Software Development Engineer in Test job 43 company alumni work here Promoted" [ref=e210] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/search-results/?keywords=full-time+Senior+Test+Engineer+or+Senior+Test+Analyst+or+Senior+Software+Test+Engineer+or+Senior+Test+Specialist%2C+hybrid&origin=JobSearchOrigin_PREFERENCES_LANDING&currentJobId=4410971567&trackingId=e1kpO9iZlZ39NRgrtdE6uw%3D%3D&refId=ReMviN3vvLmb3cEVeDK3kg%3D%3D&eBP=BUDGET_EXHAUSTED_JOB&geoId=105556991
+                    - generic [ref=e212]:
+                      - figure [ref=e213]
+                      - generic [ref=e214]:
+                        - generic [ref=e215]:
+                          - generic [ref=e217]:
+                            - paragraph [ref=e219]:
+                              - generic [ref=e221]: Senior Software Development Engineer in Test
+                            - generic [ref=e224]:
+                              - paragraph [ref=e225]: Experian
+                              - paragraph [ref=e226]: •
+                              - paragraph [ref=e227]: Hyderabad (Hybrid)
+                          - button "Dismiss Senior Software Development Engineer in Test job" [ref=e229]
+                        - generic [ref=e232]:
+                          - generic [ref=e233]:
+                            - figure [ref=e234]
+                            - paragraph [ref=e236]: 43 company alumni work here
+                          - paragraph [ref=e238]: Promoted
+                  - link "Experian • Hyderabad (Hybrid) Dismiss Platform Software Engineer in Test - Senior job 43 company alumni work here Saved · Promoted" [ref=e240] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/search-results/?keywords=full-time+Senior+Test+Engineer+or+Senior+Test+Analyst+or+Senior+Software+Test+Engineer+or+Senior+Test+Specialist%2C+hybrid&origin=JobSearchOrigin_PREFERENCES_LANDING&currentJobId=4293216032&trackingId=9%2FVgLcw9wUZGbOADP4VA5Q%3D%3D&refId=ReMviN3vvLmb3cEVeDK3kg%3D%3D&eBP=CwEAAAGe9ZWzDHlESOVBH0Y2qRGUCXdD0qaarzyV4_ctvyNu6sjPt44X0-BsBtkb2y8Z_BmRnbMVxHLFUoQccSDg72_RygRqe_ldfdueASE86Yws3dXEeAoBBtp_3ihUTOUZ3QrQfwdF-L0XXbeF5Q58DBoIFPAGOl_Zskt5bKdx_p5GYzq1qWbKPBdL51RxxFBRHc3wo94wNKYCtXebKt6tl2Rks7Z6SP-OU7G6-rl9S16zzpK3X8ijA4f4fWgVokZ9Kl5IjvENdEO6M8dCSVfR_bTsO3JVE0tloXCdZOe9Xr76VN8GU6DGh6nzhLRaqQWf706aTsXRKe_7Yw9PVKDrIT-vSV5XmPBcaqXCbHSJcJcO3rpJtuTv2Ldiif5IQIZdk4xp8cyrA4ClmWFfZAKRN2ORbA9gMd8pU_sziMPsaGfp8nZAz6gRZobVtFaX0FcnGfHphvX4anP6sqFlOOmLtvcS1qpp7MHdWx1STbELoTqlgA&geoId=105556991
+                    - generic [ref=e242]:
+                      - figure [ref=e243]
+                      - generic [ref=e244]:
+                        - generic [ref=e245]:
+                          - generic [ref=e247]:
+                            - paragraph [ref=e249]:
+                              - generic [ref=e251]: Platform Software Engineer in Test - Senior
+                            - generic [ref=e254]:
+                              - paragraph [ref=e255]: Experian
+                              - paragraph [ref=e256]: •
+                              - paragraph [ref=e257]: Hyderabad (Hybrid)
+                          - button "Dismiss Platform Software Engineer in Test - Senior job" [ref=e259]
+                        - generic [ref=e262]:
+                          - generic [ref=e263]:
+                            - figure [ref=e264]
+                            - paragraph [ref=e266]: 43 company alumni work here
+                          - generic [ref=e267]:
+                            - paragraph [ref=e268]: Saved
+                            - paragraph [ref=e269]: ·
+                            - paragraph [ref=e270]: Promoted
+                  - link "MSD • Hyderabad Dismiss Specialist, ServiceNow Platform Testing - Technology Workflows job 11 company alumni work here Viewed · Promoted" [ref=e272] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/search-results/?keywords=full-time+Senior+Test+Engineer+or+Senior+Test+Analyst+or+Senior+Software+Test+Engineer+or+Senior+Test+Specialist%2C+hybrid&origin=JobSearchOrigin_PREFERENCES_LANDING&currentJobId=4430486316&trackingId=RVUqlaHcRVYazoCaiocwDQ%3D%3D&refId=ReMviN3vvLmb3cEVeDK3kg%3D%3D&eBP=CwEAAAGe9ZWzDGyG1esq7LszR99ZCok5v_W4BxE1IT0ikp_fpbgzEyrQlKL6x0rCNmgbJSO6NpJezgrQd4DNGQVK895XSkDXwGjIWxb7Imcyd_NYEKksiwHD07w_ebVbZvuvAHp8Mj2Vf9iZeBgtcAZOUWimSZ57v4zOCG4xsBU0NRcQGFPrFXgdicXVKw5TqMh0tgq1MfNftXU0jfdAho6bYCixAqZDH9LgM9VCBADHjFTw0Gwz9CKfTfjiLgDxwx1lmm0Rzi9a8OdBk5y89uXI-hSOAi5fFp6bWNQWEA9mMZUwyReAgJnj1nOsIMZmQT6BZbEWaZ3NKv6ktZoa5pX11BqDY6xh0kZb5umYOqIXvkYk7eCWXPoyPGaQX_-vCjL_XkOcWqPJF4zBcuoRc4pU5NjL7qPhM4M4IifnZTJ21mUmAcbzrt-S_qZrmMzxdzsYn09CruMRC-08qpq0&geoId=105556991
+                    - generic [ref=e274]:
+                      - figure [ref=e275]
+                      - generic [ref=e276]:
+                        - generic [ref=e277]:
+                          - generic [ref=e279]:
+                            - paragraph [ref=e281]:
+                              - generic [ref=e283]: Specialist, ServiceNow Platform Testing - Technology Workflows
+                            - generic [ref=e286]:
+                              - paragraph [ref=e287]: MSD
+                              - paragraph [ref=e288]: •
+                              - paragraph [ref=e289]: Hyderabad
+                          - button "Dismiss Specialist, ServiceNow Platform Testing - Technology Workflows job" [ref=e291]
+                        - generic [ref=e294]:
+                          - generic [ref=e295]:
+                            - figure [ref=e296]
+                            - paragraph [ref=e298]: 11 company alumni work here
+                          - generic [ref=e299]:
+                            - paragraph [ref=e300]: Viewed
+                            - paragraph [ref=e301]: ·
+                            - paragraph [ref=e302]: Promoted
+                - link "Show all" [ref=e304] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/search-results/?keywords=full-time+Senior+Test+Engineer+or+Senior+Test+Analyst+or+Senior+Software+Test+Engineer+or+Senior+Test+Specialist%2C+hybrid&origin=JobSearchOrigin_PREFERENCES_LANDING&originToLandingJobPostings=4410971567%2C4293216032%2C4430486316&geoId=105556991
+                  - generic [ref=e307]: Show all
+              - progressbar "In progress" [ref=e310]
+          - generic "Footer"

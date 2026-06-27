@@ -1,0 +1,850 @@
+- generic [ref=e2]:
+  - heading "0 notifications" [level=2] [ref=e3]
+  - generic [ref=e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - generic [ref=e311]:
+          - button "Skip to main content" [ref=e312] [cursor=pointer]:
+            - generic [ref=e314]: Skip to main content
+          - button "Skip to sidebar" [ref=e315] [cursor=pointer]:
+            - generic [ref=e317]: Skip to sidebar
+          - button "Skip to primary content" [ref=e318] [cursor=pointer]:
+            - generic [ref=e320]: Skip to primary content
+          - button "Skip to footer" [ref=e321] [cursor=pointer]:
+            - generic [ref=e323]: Skip to footer
+          - button "Close jump menu" [ref=e6] [cursor=pointer]:
+            - img [ref=e324]
+    - generic [ref=e9]:
+      - banner [ref=e11]:
+        - generic [ref=e14]:
+          - button "LinkedIn" [ref=e326] [cursor=pointer]:
+            - img "LinkedIn" [ref=e327]
+          - generic [ref=e432]:
+            - status [ref=e433]
+            - search [ref=e434]:
+              - generic [ref=e435]:
+                - img [ref=e437]
+                - textbox "Describe the job you want" [ref=e439]: QA Hyderabad
+                - button "Clear Selection":
+                  - img [ref=e441] [cursor=pointer]
+          - generic [ref=e18]:
+            - figure [ref=e345]
+            - navigation [ref=e22]:
+              - list [ref=e23]:
+                - listitem [ref=e24]:
+                  - button "Home, 1 new notification" [ref=e25] [cursor=pointer]:
+                    - img [ref=e27]
+                    - generic [ref=e29]: Home
+                - listitem [ref=e30]:
+                  - link "My Network, 0 new notifications" [ref=e31] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - img [ref=e33]
+                    - generic [ref=e35]: My Network
+                - listitem [ref=e36]:
+                  - link "Jobs, 0 new notifications" [ref=e37] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - img [ref=e443]
+                    - generic [ref=e41]: Jobs
+                - listitem [ref=e42]:
+                  - link "Messaging, 0 new notifications" [ref=e43] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - img [ref=e45]
+                    - generic [ref=e47]: Messaging
+                - listitem [ref=e48]:
+                  - link "Notifications, 4 new notifications" [ref=e49] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=e50]:
+                      - img [ref=e51]
+                      - generic [ref=e53]: "4"
+                    - generic [ref=e54]: Notifications
+                - listitem [ref=e55]:
+                  - button "Me" [ref=e56] [cursor=pointer]:
+                    - figure [ref=e58]
+                    - generic [ref=e59]:
+                      - text: Me
+                      - img [ref=e349]
+            - navigation [ref=e63]:
+              - list [ref=e64]:
+                - listitem [ref=e65]:
+                  - button "For Business" [ref=e66] [cursor=pointer]:
+                    - img [ref=e68]
+                    - generic [ref=e70]:
+                      - text: For Business
+                      - img [ref=e351]
+                - listitem [ref=e72]:
+                  - link "Hire with AI" [ref=e73] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/talent/job-posting-redirect/?trk=nav_spotlight_post_job
+                    - img [ref=e353]
+                    - generic [ref=e76]: Hire with AI
+      - generic [ref=e445]:
+        - toolbar [ref=e446]:
+          - navigation [ref=e450]:
+            - generic [ref=e451]:
+              - button "Filter by Jobs" [ref=e453] [cursor=pointer]:
+                - generic "Filter by Jobs" [ref=e454]:
+                  - checkbox "Jobs" [checked]
+                  - generic [ref=e455]:
+                    - text: Jobs
+                    - img [ref=e456]
+              - button "Filter by Date posted" [ref=e459] [cursor=pointer]:
+                - generic "Filter by Date posted" [ref=e460]:
+                  - checkbox "Date posted"
+                  - generic [ref=e461]:
+                    - text: Date posted
+                    - img [ref=e462]
+              - radio "Filter by Remote" [ref=e465] [cursor=pointer]:
+                - generic "Filter by Remote" [ref=e466]:
+                  - checkbox "Remote"
+                  - generic [ref=e467]: Remote
+              - radio "Filter by Mobile" [ref=e469] [cursor=pointer]:
+                - generic "Filter by Mobile" [ref=e470]:
+                  - checkbox "Mobile"
+                  - generic [ref=e471]: Mobile
+              - radio "Filter by API" [ref=e473] [cursor=pointer]:
+                - generic "Filter by API" [ref=e474]:
+                  - checkbox "API"
+                  - generic [ref=e475]: API
+              - radio "Filter by Cloud" [ref=e477] [cursor=pointer]:
+                - generic "Filter by Cloud" [ref=e478]:
+                  - checkbox "Cloud"
+                  - generic [ref=e479]: Cloud
+              - radio "Filter by Java" [ref=e481] [cursor=pointer]:
+                - generic "Filter by Java" [ref=e482]:
+                  - checkbox "Java"
+                  - generic [ref=e483]: Java
+              - radio "Filter by Easy Apply" [ref=e485] [cursor=pointer]:
+                - generic "Filter by Easy Apply" [ref=e486]:
+                  - checkbox "Easy Apply"
+                  - generic [ref=e487]: Easy Apply
+              - button "Filter by Experience level" [ref=e489] [cursor=pointer]:
+                - generic "Filter by Experience level" [ref=e490]:
+                  - checkbox "Experience level"
+                  - generic [ref=e491]:
+                    - text: Experience level
+                    - img [ref=e492]
+              - button "Filter by Employment type" [ref=e495] [cursor=pointer]:
+                - generic "Filter by Employment type" [ref=e496]:
+                  - checkbox "Employment type"
+                  - generic [ref=e497]:
+                    - text: Employment type
+                    - img [ref=e498]
+              - button "Filter by Company" [ref=e501] [cursor=pointer]:
+                - generic "Filter by Company" [ref=e502]:
+                  - checkbox "Company"
+                  - generic [ref=e503]:
+                    - text: Company
+                    - img [ref=e504]
+              - radio "Filter by In my network" [ref=e507] [cursor=pointer]:
+                - generic "Filter by In my network" [ref=e508]:
+                  - checkbox "In my network"
+                  - generic [ref=e509]: In my network
+            - button "AI-powered search is in beta" [ref=e510] [cursor=pointer]:
+              - generic [ref=e511]:
+                - img [ref=e512]
+                - generic [ref=e514]: AI-powered search is in beta
+        - main [ref=e515]:
+          - generic [ref=e516]:
+            - generic [ref=e518]:
+              - generic [ref=e519]:
+                - paragraph [ref=e520]: 99+ results
+                - button "Hyderabad (80 km)" [ref=e521] [cursor=pointer]:
+                  - generic [ref=e522]:
+                    - img [ref=e523]
+                    - paragraph [ref=e525]: Hyderabad (80 km)
+                    - img [ref=e526]
+              - button "How promoted jobs are ranked" [ref=e531] [cursor=pointer]:
+                - generic [ref=e532]:
+                  - paragraph [ref=e533]: How promoted jobs are ranked
+                  - img [ref=e534]
+            - generic [ref=e539]:
+              - button "Senior Software Development Engineer in Test (Verified job) Experian Hyderabad (Hybrid) Dismiss Senior Software Development Engineer in Test job 43 company alumni work here Posted 5 days ago" [ref=e543] [cursor=pointer]:
+                - generic [ref=e545]:
+                  - figure [ref=e546]
+                  - generic [ref=e547]:
+                    - generic [ref=e548]:
+                      - generic [ref=e550]:
+                        - paragraph [ref=e552]:
+                          - generic [ref=e553]: Senior Software Development Engineer in Test (Verified job)
+                          - generic [ref=e554]:
+                            - text: Senior Software Development Engineer in Test
+                            - img [ref=e556]
+                        - paragraph [ref=e559]: Experian
+                        - paragraph [ref=e560]: Hyderabad (Hybrid)
+                      - button "Dismiss Senior Software Development Engineer in Test job" [ref=e562]:
+                        - img [ref=e564]
+                    - generic [ref=e566]:
+                      - generic [ref=e567]:
+                        - figure [ref=e568]
+                        - paragraph [ref=e570]: 43 company alumni work here
+                      - paragraph [ref=e572]:
+                        - generic [ref=e573]: Posted 5 days ago
+                        - text: 5 days ago
+              - button "Sr Test Engineer - Automation (Verified job) Clean Harbors Hyderabad (On-site) Dismiss Sr Test Engineer - Automation job 1 company alumni works here Saved · Posted 1 week ago" [ref=e577] [cursor=pointer]:
+                - generic [ref=e579]:
+                  - figure [ref=e580]
+                  - generic [ref=e581]:
+                    - generic [ref=e582]:
+                      - generic [ref=e584]:
+                        - paragraph [ref=e586]:
+                          - generic [ref=e587]: Sr Test Engineer - Automation (Verified job)
+                          - generic [ref=e588]:
+                            - text: Sr Test Engineer - Automation
+                            - img [ref=e590]
+                        - paragraph [ref=e593]: Clean Harbors
+                        - paragraph [ref=e594]: Hyderabad (On-site)
+                      - button "Dismiss Sr Test Engineer - Automation job" [ref=e596]:
+                        - img [ref=e598]
+                    - generic [ref=e600]:
+                      - generic [ref=e601]:
+                        - figure [ref=e602]
+                        - paragraph [ref=e604]: 1 company alumni works here
+                      - generic [ref=e605]:
+                        - paragraph [ref=e606]: Saved
+                        - paragraph [ref=e607]: ·
+                        - paragraph [ref=e608]:
+                          - generic [ref=e609]: Posted 1 week ago
+                          - text: 1 week ago
+              - button "QA - Automation Testing Engineer, AVP (Verified job) State Street Hyderabad Dismiss QA - Automation Testing Engineer, AVP job 26 company alumni work here Be an early applicant · Posted 6 hours ago" [ref=e613] [cursor=pointer]:
+                - generic [ref=e615]:
+                  - figure [ref=e616]
+                  - generic [ref=e617]:
+                    - generic [ref=e618]:
+                      - generic [ref=e620]:
+                        - paragraph [ref=e622]:
+                          - generic [ref=e623]: QA - Automation Testing Engineer, AVP (Verified job)
+                          - generic [ref=e624]:
+                            - text: QA - Automation Testing Engineer, AVP
+                            - img [ref=e626]
+                        - paragraph [ref=e629]: State Street
+                        - paragraph [ref=e630]: Hyderabad
+                      - button "Dismiss QA - Automation Testing Engineer, AVP job" [ref=e632]:
+                        - img [ref=e634]
+                    - generic [ref=e636]:
+                      - generic [ref=e637]:
+                        - figure [ref=e638]
+                        - paragraph [ref=e640]: 26 company alumni work here
+                      - generic [ref=e641]:
+                        - paragraph [ref=e642]: Be an early applicant
+                        - paragraph [ref=e643]: ·
+                        - paragraph [ref=e644]:
+                          - generic [ref=e645]: Posted 6 hours ago
+                          - text: 6 hours ago
+              - button "Senior Test Engineer - Automation QE (Verified job) CGI Hyderabad Dismiss Senior Test Engineer - Automation QE job 82 company alumni work here Saved · Posted 2 weeks ago" [ref=e649] [cursor=pointer]:
+                - generic [ref=e651]:
+                  - figure [ref=e652]
+                  - generic [ref=e653]:
+                    - generic [ref=e654]:
+                      - generic [ref=e656]:
+                        - paragraph [ref=e658]:
+                          - generic [ref=e659]: Senior Test Engineer - Automation QE (Verified job)
+                          - generic [ref=e660]:
+                            - text: Senior Test Engineer - Automation QE
+                            - img [ref=e662]
+                        - paragraph [ref=e665]: CGI
+                        - paragraph [ref=e666]: Hyderabad
+                      - button "Dismiss Senior Test Engineer - Automation QE job" [ref=e668]:
+                        - img [ref=e670]
+                    - generic [ref=e672]:
+                      - generic [ref=e673]:
+                        - figure [ref=e674]
+                        - paragraph [ref=e676]: 82 company alumni work here
+                      - generic [ref=e677]:
+                        - paragraph [ref=e678]: Saved
+                        - paragraph [ref=e679]: ·
+                        - paragraph [ref=e680]:
+                          - generic [ref=e681]: Posted 2 weeks ago
+                          - text: 2 weeks ago
+              - button "Experian Hyderabad (Hybrid) Dismiss Senior QA Engineer(Data Platform Testing) job 43 company alumni work here Posted 2 days ago" [ref=e685] [cursor=pointer]:
+                - generic [ref=e687]:
+                  - figure [ref=e688]
+                  - generic [ref=e689]:
+                    - generic [ref=e690]:
+                      - generic [ref=e692]:
+                        - paragraph [ref=e694]:
+                          - generic [ref=e696]:
+                            - text: Senior QA Engineer(Data Platform Testing)
+                            - img [ref=e698]
+                        - paragraph [ref=e701]: Experian
+                        - paragraph [ref=e702]: Hyderabad (Hybrid)
+                      - button "Dismiss Senior QA Engineer(Data Platform Testing) job" [ref=e704]:
+                        - img [ref=e706]
+                    - generic [ref=e708]:
+                      - generic [ref=e709]:
+                        - figure [ref=e710]
+                        - paragraph [ref=e712]: 43 company alumni work here
+                      - paragraph [ref=e714]:
+                        - generic [ref=e715]: Posted 2 days ago
+                        - text: 2 days ago
+              - button "Capgemini Hyderabad Dismiss Senior Test Automation Engineer job 2 connections work here Posted 2 weeks ago" [ref=e719] [cursor=pointer]:
+                - generic [ref=e721]:
+                  - figure [ref=e722]
+                  - generic [ref=e723]:
+                    - generic [ref=e724]:
+                      - generic [ref=e726]:
+                        - paragraph [ref=e728]:
+                          - generic [ref=e730]:
+                            - text: Senior Test Automation Engineer
+                            - img [ref=e732]
+                        - paragraph [ref=e735]: Capgemini
+                        - paragraph [ref=e736]: Hyderabad
+                      - button "Dismiss Senior Test Automation Engineer job" [ref=e738]:
+                        - img [ref=e740]
+                    - generic [ref=e742]:
+                      - generic [ref=e743]:
+                        - figure [ref=e744]:
+                          - img [ref=e745]
+                        - figure [ref=e751]:
+                          - img [ref=e752]
+                        - paragraph [ref=e759]: 2 connections work here
+                      - paragraph [ref=e761]:
+                        - generic [ref=e762]: Posted 2 weeks ago
+                        - text: 2 weeks ago
+              - button "Crisil Hyderabad Dismiss Senior QA Engineer job 1 company alumni works here Posted 2 months ago" [ref=e766] [cursor=pointer]:
+                - generic [ref=e768]:
+                  - figure [ref=e769]
+                  - generic [ref=e770]:
+                    - generic [ref=e771]:
+                      - generic [ref=e773]:
+                        - paragraph [ref=e775]: Senior QA Engineer
+                        - paragraph [ref=e778]: Crisil
+                        - paragraph [ref=e779]: Hyderabad
+                      - button "Dismiss Senior QA Engineer job" [ref=e781]:
+                        - img [ref=e783]
+                    - generic [ref=e785]:
+                      - generic [ref=e786]:
+                        - figure [ref=e787]
+                        - paragraph [ref=e789]: 1 company alumni works here
+                      - paragraph [ref=e791]:
+                        - generic [ref=e792]: Posted 2 months ago
+                        - text: 2 months ago
+              - button "Optum India Hyderabad Dismiss Quality Consultant job 1 connection works here Posted 3 days ago" [ref=e796] [cursor=pointer]:
+                - generic [ref=e798]:
+                  - figure [ref=e799]
+                  - generic [ref=e800]:
+                    - generic [ref=e801]:
+                      - generic [ref=e803]:
+                        - paragraph [ref=e805]: Quality Consultant
+                        - paragraph [ref=e808]: Optum India
+                        - paragraph [ref=e809]: Hyderabad
+                      - button "Dismiss Quality Consultant job" [ref=e811]:
+                        - img [ref=e813]
+                    - generic [ref=e815]:
+                      - generic [ref=e816]:
+                        - figure [ref=e817]:
+                          - img [ref=e818]
+                        - paragraph [ref=e825]: 1 connection works here
+                      - paragraph [ref=e827]:
+                        - generic [ref=e828]: Posted 3 days ago
+                        - text: 3 days ago
+              - button "LPL Financial Global Capability Center Greater Hyderabad Area Dismiss Senior Quality Engineer job Posted 2 weeks ago" [ref=e832] [cursor=pointer]:
+                - generic [ref=e834]:
+                  - figure [ref=e835]
+                  - generic [ref=e836]:
+                    - generic [ref=e837]:
+                      - generic [ref=e839]:
+                        - paragraph [ref=e841]: Senior Quality Engineer
+                        - paragraph [ref=e844]: LPL Financial Global Capability Center
+                        - paragraph [ref=e845]: Greater Hyderabad Area
+                      - button "Dismiss Senior Quality Engineer job" [ref=e847]:
+                        - img [ref=e849]
+                    - paragraph [ref=e853]:
+                      - generic [ref=e854]: Posted 2 weeks ago
+                      - text: 2 weeks ago
+              - button "State Street Hyderabad Dismiss Quality Assurance - Assistant Manager job 26 company alumni work here Posted 1 day ago" [ref=e858] [cursor=pointer]:
+                - generic [ref=e860]:
+                  - figure [ref=e861]
+                  - generic [ref=e862]:
+                    - generic [ref=e863]:
+                      - generic [ref=e865]:
+                        - paragraph [ref=e867]:
+                          - generic [ref=e869]:
+                            - text: Quality Assurance - Assistant Manager
+                            - img [ref=e871]
+                        - paragraph [ref=e874]: State Street
+                        - paragraph [ref=e875]: Hyderabad
+                      - button "Dismiss Quality Assurance - Assistant Manager job" [ref=e877]:
+                        - img [ref=e879]
+                    - generic [ref=e881]:
+                      - generic [ref=e882]:
+                        - figure [ref=e883]
+                        - paragraph [ref=e885]: 26 company alumni work here
+                      - paragraph [ref=e887]:
+                        - generic [ref=e888]: Posted 1 day ago
+                        - text: 1 day ago
+              - button "Optum India Hyderabad Dismiss Quality Engineering Lead job 1 connection works here Saved · Posted 3 days ago" [ref=e892] [cursor=pointer]:
+                - generic [ref=e894]:
+                  - figure [ref=e895]
+                  - generic [ref=e896]:
+                    - generic [ref=e897]:
+                      - generic [ref=e899]:
+                        - paragraph [ref=e901]: Quality Engineering Lead
+                        - paragraph [ref=e904]: Optum India
+                        - paragraph [ref=e905]: Hyderabad
+                      - button "Dismiss Quality Engineering Lead job" [ref=e907]:
+                        - img [ref=e909]
+                    - generic [ref=e911]:
+                      - generic [ref=e912]:
+                        - figure [ref=e913]:
+                          - img [ref=e914]
+                        - paragraph [ref=e921]: 1 connection works here
+                      - generic [ref=e922]:
+                        - paragraph [ref=e923]: Saved
+                        - paragraph [ref=e924]: ·
+                        - paragraph [ref=e925]:
+                          - generic [ref=e926]: Posted 3 days ago
+                          - text: 3 days ago
+              - button "Trimont Hyderabad (Hybrid) Dismiss Senior Associate Quality Assurance Engineer job Posted 6 days ago" [ref=e930] [cursor=pointer]:
+                - generic [ref=e932]:
+                  - figure [ref=e933]
+                  - generic [ref=e934]:
+                    - generic [ref=e935]:
+                      - generic [ref=e937]:
+                        - paragraph [ref=e939]:
+                          - generic [ref=e941]:
+                            - text: Senior Associate Quality Assurance Engineer
+                            - img [ref=e943]
+                        - paragraph [ref=e946]: Trimont
+                        - paragraph [ref=e947]: Hyderabad (Hybrid)
+                      - button "Dismiss Senior Associate Quality Assurance Engineer job" [ref=e949]:
+                        - img [ref=e951]
+                    - paragraph [ref=e955]:
+                      - generic [ref=e956]: Posted 6 days ago
+                      - text: 6 days ago
+              - button "Capgemini Hyderabad Dismiss Playwright Test Automation job 2 connections work here Posted 1 week ago" [ref=e960] [cursor=pointer]:
+                - generic [ref=e962]:
+                  - figure [ref=e963]
+                  - generic [ref=e964]:
+                    - generic [ref=e965]:
+                      - generic [ref=e967]:
+                        - paragraph [ref=e969]:
+                          - generic [ref=e971]:
+                            - text: Playwright Test Automation
+                            - img [ref=e973]
+                        - paragraph [ref=e976]: Capgemini
+                        - paragraph [ref=e977]: Hyderabad
+                      - button "Dismiss Playwright Test Automation job" [ref=e979]:
+                        - img [ref=e981]
+                    - generic [ref=e983]:
+                      - generic [ref=e984]:
+                        - figure [ref=e985]:
+                          - img [ref=e986]
+                        - figure [ref=e992]:
+                          - img [ref=e993]
+                        - paragraph [ref=e1000]: 2 connections work here
+                      - paragraph [ref=e1002]:
+                        - generic [ref=e1003]: Posted 1 week ago
+                        - text: 1 week ago
+              - button "SS&C Technologies Hyderabad Dismiss Software Development Engineer in Test job 30 company alumni work here Posted 1 week ago" [ref=e1007] [cursor=pointer]:
+                - generic [ref=e1009]:
+                  - figure [ref=e1010]
+                  - generic [ref=e1011]:
+                    - generic [ref=e1012]:
+                      - generic [ref=e1014]:
+                        - paragraph [ref=e1016]:
+                          - generic [ref=e1018]:
+                            - text: Software Development Engineer in Test
+                            - img [ref=e1020]
+                        - paragraph [ref=e1023]: SS&C Technologies
+                        - paragraph [ref=e1024]: Hyderabad
+                      - button "Dismiss Software Development Engineer in Test job" [ref=e1026]:
+                        - img [ref=e1028]
+                    - generic [ref=e1030]:
+                      - generic [ref=e1031]:
+                        - figure [ref=e1032]
+                        - paragraph [ref=e1034]: 30 company alumni work here
+                      - paragraph [ref=e1036]:
+                        - generic [ref=e1037]: Posted 1 week ago
+                        - text: 1 week ago
+              - button "Apple Hyderabad Dismiss Test Automation Engineer, Business Process Re-engineering (Hyderabad) job 47 company alumni work here Posted 1 month ago" [ref=e1041] [cursor=pointer]:
+                - generic [ref=e1043]:
+                  - figure [ref=e1044]
+                  - generic [ref=e1045]:
+                    - generic [ref=e1046]:
+                      - generic [ref=e1048]:
+                        - paragraph [ref=e1050]:
+                          - generic [ref=e1052]:
+                            - text: Test Automation Engineer, Business Process Re-engineering (Hyderabad)
+                            - img [ref=e1054]
+                        - paragraph [ref=e1057]: Apple
+                        - paragraph [ref=e1058]: Hyderabad
+                      - button "Dismiss Test Automation Engineer, Business Process Re-engineering (Hyderabad) job" [ref=e1060]:
+                        - img [ref=e1062]
+                    - generic [ref=e1064]:
+                      - generic [ref=e1065]:
+                        - figure [ref=e1066]
+                        - paragraph [ref=e1068]: 47 company alumni work here
+                      - paragraph [ref=e1070]:
+                        - generic [ref=e1071]: Posted 1 month ago
+                        - text: 1 month ago
+              - button "UST Hyderabad (On-site) Dismiss Lead SDET job Actively reviewing applicants Posted 3 weeks ago · Easy Apply" [ref=e1075] [cursor=pointer]:
+                - generic [ref=e1077]:
+                  - figure [ref=e1078]
+                  - generic [ref=e1079]:
+                    - generic [ref=e1080]:
+                      - generic [ref=e1082]:
+                        - paragraph [ref=e1084]: Lead SDET
+                        - paragraph [ref=e1087]: UST
+                        - paragraph [ref=e1088]: Hyderabad (On-site)
+                      - button "Dismiss Lead SDET job" [ref=e1090]:
+                        - img [ref=e1092]
+                    - generic [ref=e1094]:
+                      - generic [ref=e1095]:
+                        - img [ref=e1096]
+                        - paragraph [ref=e1100]: Actively reviewing applicants
+                      - generic [ref=e1101]:
+                        - paragraph [ref=e1102]:
+                          - generic [ref=e1103]: Posted 3 weeks ago
+                          - text: 3 weeks ago
+                        - paragraph [ref=e1104]: ·
+                        - paragraph [ref=e1105]:
+                          - img [ref=e1107]
+                          - text: Easy Apply
+              - button "Accenture XML - India - Team Lead/Consultant Hyderabad Dismiss Test Automation Lead job 1 connection works here Posted 1 month ago" [ref=e1112] [cursor=pointer]:
+                - generic [ref=e1114]:
+                  - figure [ref=e1115]
+                  - generic [ref=e1116]:
+                    - generic [ref=e1117]:
+                      - generic [ref=e1119]:
+                        - paragraph [ref=e1121]:
+                          - generic [ref=e1123]:
+                            - text: Test Automation Lead
+                            - img [ref=e1125]
+                        - paragraph [ref=e1128]: Accenture XML - India - Team Lead/Consultant
+                        - paragraph [ref=e1129]: Hyderabad
+                      - button "Dismiss Test Automation Lead job" [ref=e1131]:
+                        - img [ref=e1133]
+                    - generic [ref=e1135]:
+                      - generic [ref=e1136]:
+                        - figure [ref=e1137]
+                        - paragraph [ref=e1139]: 1 connection works here
+                      - paragraph [ref=e1141]:
+                        - generic [ref=e1142]: Posted 1 month ago
+                        - text: 1 month ago
+              - button "Hyland Greater Hyderabad Area Dismiss Senior Test Engineer job 6 company alumni work here Posted 5 days ago" [ref=e1146] [cursor=pointer]:
+                - generic [ref=e1148]:
+                  - figure [ref=e1149]
+                  - generic [ref=e1150]:
+                    - generic [ref=e1151]:
+                      - generic [ref=e1153]:
+                        - paragraph [ref=e1155]: Senior Test Engineer
+                        - paragraph [ref=e1158]: Hyland
+                        - paragraph [ref=e1159]: Greater Hyderabad Area
+                      - button "Dismiss Senior Test Engineer job" [ref=e1161]:
+                        - img [ref=e1163]
+                    - generic [ref=e1165]:
+                      - generic [ref=e1166]:
+                        - figure [ref=e1167]
+                        - paragraph [ref=e1169]: 6 company alumni work here
+                      - paragraph [ref=e1171]:
+                        - generic [ref=e1172]: Posted 5 days ago
+                        - text: 5 days ago
+              - button "The Depository Trust & Clearing Corporation (DTCC) Hyderabad Dismiss Lead Test Engineer job 6 company alumni work here Posted 2 weeks ago" [ref=e1176] [cursor=pointer]:
+                - generic [ref=e1178]:
+                  - figure [ref=e1179]
+                  - generic [ref=e1180]:
+                    - generic [ref=e1181]:
+                      - generic [ref=e1183]:
+                        - paragraph [ref=e1185]:
+                          - generic [ref=e1187]:
+                            - text: Lead Test Engineer
+                            - img [ref=e1189]
+                        - paragraph [ref=e1192]: The Depository Trust & Clearing Corporation (DTCC)
+                        - paragraph [ref=e1193]: Hyderabad
+                      - button "Dismiss Lead Test Engineer job" [ref=e1195]:
+                        - img [ref=e1197]
+                    - generic [ref=e1199]:
+                      - generic [ref=e1200]:
+                        - figure [ref=e1201]
+                        - paragraph [ref=e1203]: 6 company alumni work here
+                      - paragraph [ref=e1205]:
+                        - generic [ref=e1206]: Posted 2 weeks ago
+                        - text: 2 weeks ago
+              - button "Carrier Hyderabad (On-site) Dismiss Senior Engineer - Automation job 6 company alumni work here Posted 4 days ago" [ref=e1210] [cursor=pointer]:
+                - generic [ref=e1212]:
+                  - figure [ref=e1213]
+                  - generic [ref=e1214]:
+                    - generic [ref=e1215]:
+                      - generic [ref=e1217]:
+                        - paragraph [ref=e1219]:
+                          - generic [ref=e1221]:
+                            - text: Senior Engineer - Automation
+                            - img [ref=e1223]
+                        - paragraph [ref=e1226]: Carrier
+                        - paragraph [ref=e1227]: Hyderabad (On-site)
+                      - button "Dismiss Senior Engineer - Automation job" [ref=e1229]:
+                        - img [ref=e1231]
+                    - generic [ref=e1233]:
+                      - generic [ref=e1234]:
+                        - figure [ref=e1235]
+                        - paragraph [ref=e1237]: 6 company alumni work here
+                      - paragraph [ref=e1239]:
+                        - generic [ref=e1240]: Posted 4 days ago
+                        - text: 4 days ago
+              - button "Deloitte Hyderabad Dismiss Testing – Senior Analyst - Hyderabad job 24 connections work here Saved · Posted 6 days ago" [ref=e1244] [cursor=pointer]:
+                - generic [ref=e1246]:
+                  - figure [ref=e1247]
+                  - generic [ref=e1248]:
+                    - generic [ref=e1249]:
+                      - generic [ref=e1251]:
+                        - paragraph [ref=e1253]:
+                          - generic [ref=e1255]:
+                            - text: Testing – Senior Analyst - Hyderabad
+                            - img [ref=e1257]
+                        - paragraph [ref=e1260]: Deloitte
+                        - paragraph [ref=e1261]: Hyderabad
+                      - button "Dismiss Testing – Senior Analyst - Hyderabad job" [ref=e1263]:
+                        - img [ref=e1265]
+                    - generic [ref=e1267]:
+                      - generic [ref=e1268]:
+                        - figure [ref=e1269]
+                        - figure [ref=e1270]
+                        - figure [ref=e1271]
+                        - paragraph [ref=e1273]: 24 connections work here
+                      - generic [ref=e1274]:
+                        - paragraph [ref=e1275]: Saved
+                        - paragraph [ref=e1276]: ·
+                        - paragraph [ref=e1277]:
+                          - generic [ref=e1278]: Posted 6 days ago
+                          - text: 6 days ago
+              - button "Apple Hyderabad Dismiss Quality & Automation Engineer- Supply Chain Innovation job 47 company alumni work here Posted 1 month ago" [ref=e1282] [cursor=pointer]:
+                - generic [ref=e1284]:
+                  - figure [ref=e1285]
+                  - generic [ref=e1286]:
+                    - generic [ref=e1287]:
+                      - generic [ref=e1289]:
+                        - paragraph [ref=e1291]:
+                          - generic [ref=e1293]:
+                            - text: Quality & Automation Engineer- Supply Chain Innovation
+                            - img [ref=e1295]
+                        - paragraph [ref=e1298]: Apple
+                        - paragraph [ref=e1299]: Hyderabad
+                      - button "Dismiss Quality & Automation Engineer- Supply Chain Innovation job" [ref=e1301]:
+                        - img [ref=e1303]
+                    - generic [ref=e1305]:
+                      - generic [ref=e1306]:
+                        - figure [ref=e1307]
+                        - paragraph [ref=e1309]: 47 company alumni work here
+                      - paragraph [ref=e1311]:
+                        - generic [ref=e1312]: Posted 1 month ago
+                        - text: 1 month ago
+              - button "GE Vernova Greater Hyderabad Area Dismiss Staff Test Lead job 9 company alumni work here Posted 1 week ago" [ref=e1316] [cursor=pointer]:
+                - generic [ref=e1318]:
+                  - figure [ref=e1319]
+                  - generic [ref=e1320]:
+                    - generic [ref=e1321]:
+                      - generic [ref=e1323]:
+                        - paragraph [ref=e1325]:
+                          - generic [ref=e1327]:
+                            - text: Staff Test Lead
+                            - img [ref=e1329]
+                        - paragraph [ref=e1332]: GE Vernova
+                        - paragraph [ref=e1333]: Greater Hyderabad Area
+                      - button "Dismiss Staff Test Lead job" [ref=e1335]:
+                        - img [ref=e1337]
+                    - generic [ref=e1339]:
+                      - generic [ref=e1340]:
+                        - figure [ref=e1341]
+                        - paragraph [ref=e1343]: 9 company alumni work here
+                      - paragraph [ref=e1345]:
+                        - generic [ref=e1346]: Posted 1 week ago
+                        - text: 1 week ago
+              - button "CIBC India Hyderabad (Hybrid) Dismiss Intermediate Quality Engineer [T500-26450] job Posted 1 week ago · Easy Apply" [ref=e1350] [cursor=pointer]:
+                - generic [ref=e1352]:
+                  - figure [ref=e1353]
+                  - generic [ref=e1354]:
+                    - generic [ref=e1355]:
+                      - generic [ref=e1357]:
+                        - paragraph [ref=e1359]: Intermediate Quality Engineer [T500-26450]
+                        - paragraph [ref=e1362]: CIBC India
+                        - paragraph [ref=e1363]: Hyderabad (Hybrid)
+                      - button "Dismiss Intermediate Quality Engineer [T500-26450] job" [ref=e1365]:
+                        - img [ref=e1367]
+                    - generic [ref=e1370]:
+                      - paragraph [ref=e1371]:
+                        - generic [ref=e1372]: Posted 1 week ago
+                        - text: 1 week ago
+                      - paragraph [ref=e1373]: ·
+                      - paragraph [ref=e1374]:
+                        - img [ref=e1376]
+                        - text: Easy Apply
+              - button "LPL Financial Global Capability Center Greater Hyderabad Area Dismiss Quality Engineer job Posted 4 days ago" [ref=e1381] [cursor=pointer]:
+                - generic [ref=e1383]:
+                  - figure [ref=e1384]
+                  - generic [ref=e1385]:
+                    - generic [ref=e1386]:
+                      - generic [ref=e1388]:
+                        - paragraph [ref=e1390]: Quality Engineer
+                        - paragraph [ref=e1393]: LPL Financial Global Capability Center
+                        - paragraph [ref=e1394]: Greater Hyderabad Area
+                      - button "Dismiss Quality Engineer job" [ref=e1396]:
+                        - img [ref=e1398]
+                    - paragraph [ref=e1402]:
+                      - generic [ref=e1403]: Posted 4 days ago
+                      - text: 4 days ago
+              - generic [ref=e1405]:
+                - generic [ref=e1406]:
+                  - heading "Are these results helpful?" [level=2] [ref=e1407]
+                  - paragraph [ref=e1408]: Your feedback helps us improve search results.
+                - generic [ref=e1409]:
+                  - button "Share positive feedback" [ref=e1410] [cursor=pointer]:
+                    - img [ref=e1412]
+                  - link "Share negative feedback" [ref=e1414] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/search-results/?keywords=QA+Hyderabad&origin=JOBS_HOME_SEARCH_BUTTON
+                    - img [ref=e1416]
+              - generic [ref=e1418]:
+                - list [ref=e1419]:
+                  - listitem [ref=e1420]:
+                    - button "Page 1" [ref=e1421] [cursor=pointer]:
+                      - generic [ref=e1422]: "1"
+                  - listitem [ref=e1423]:
+                    - button "Page 2" [ref=e1424] [cursor=pointer]:
+                      - generic [ref=e1425]: "2"
+                  - listitem [ref=e1426]:
+                    - button "Page 3" [ref=e1427] [cursor=pointer]:
+                      - generic [ref=e1428]: "3"
+                - button "Next" [ref=e1429] [cursor=pointer]:
+                  - generic [ref=e1430]:
+                    - img [ref=e1431]
+                    - generic [ref=e1433]: Next
+              - generic [ref=e1434]:
+                - generic [ref=e1435]:
+                  - link "About" [ref=e1436] [cursor=pointer]:
+                    - /url: https://about.linkedin.com/
+                    - paragraph [ref=e1437]: About
+                  - link "Accessibility" [ref=e1438] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/accessibility/
+                    - paragraph [ref=e1439]: Accessibility
+                  - link "Help Center" [ref=e1440] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/
+                    - paragraph [ref=e1441]: Help Center
+                  - button "Privacy & Terms" [ref=e1442] [cursor=pointer]:
+                    - generic [ref=e1443]:
+                      - paragraph [ref=e1444]: Privacy & Terms
+                      - img [ref=e1445]
+                  - link "Ad Choices" [ref=e1447] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                    - paragraph [ref=e1448]: Ad Choices
+                  - link "Advertising" [ref=e1449] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                    - paragraph [ref=e1450]: Advertising
+                  - button "Business Services" [ref=e1451] [cursor=pointer]:
+                    - generic [ref=e1452]:
+                      - paragraph [ref=e1453]: Business Services
+                      - img [ref=e1454]
+                  - link "Get the LinkedIn app" [ref=e1456] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mobile/
+                    - paragraph [ref=e1457]: Get the LinkedIn app
+                  - link "More" [ref=e1458] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/search-results/?keywords=QA+Hyderabad&origin=JOBS_HOME_SEARCH_BUTTON
+                    - paragraph [ref=e1459]: More
+                - generic [ref=e1460]:
+                  - img [ref=e1461]
+                  - paragraph [ref=e1463]: LinkedIn Corporation © 2026
+              - generic [ref=e1465]:
+                - heading "Get job alerts for this search" [level=3] [ref=e1466]
+                - switch "Tap to toggle setting" [ref=e1467] [cursor=pointer]:
+                  - generic [ref=e1468]:
+                    - generic:
+                      - paragraph
+                    - generic [ref=e1470]:
+                      - switch
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - complementary:
+            - generic [ref=e403]:
+              - generic [ref=e405] [cursor=pointer]:
+                - generic [ref=e406]:
+                  - img "Sri Vidya Gara" [ref=e407]
+                  - generic [ref=e409]: Status is online
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=e410]:
+                  - generic [ref=e411]:
+                    - generic [ref=e412]: Messaging
+                    - generic [ref=e413]: You are on the messaging overlay. Press enter to open the list of conversations.
+              - generic [ref=e414]:
+                - button "Open messenger dropdown menu" [ref=e416] [cursor=pointer]:
+                  - img "Open messenger dropdown menu" [ref=e417]
+                - button "Compose message" [ref=e420] [cursor=pointer]:
+                  - img [ref=e421]
+                  - generic [ref=e423]: Compose message
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=e424] [cursor=pointer]:
+                  - img [ref=e425]
+                  - generic [ref=e427]: You are on the messaging overlay. Press enter to open the list of conversations.
+          - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - iframe [ref=e428]:
+    - generic [active] [ref=f7e1]:
+      - generic:
+        - region "Toast message":
+          - heading "0 notifications total" [level=2] [ref=f7e3]
+          - alert
+      - region [ref=f7e4]
+      - generic [ref=f7e5]:
+        - generic [ref=f7e7]:
+          - button "Skip to search" [ref=f7e8] [cursor=pointer]:
+            - generic [ref=f7e9]: Skip to search
+          - button "Skip to main content" [ref=f7e10] [cursor=pointer]:
+            - generic [ref=f7e11]: Skip to main content
+          - button "Keyboard shortcuts" [ref=f7e12] [cursor=pointer]:
+            - generic [ref=f7e13]: Keyboard shortcuts
+          - button "Close jump menu" [ref=f7e14] [cursor=pointer]:
+            - img [ref=f7e15]
+            - generic [ref=f7e17]: Close jump menu
+        - banner "Global Navigation" [ref=f7e18]:
+          - generic [ref=f7e19]:
+            - link "LinkedIn" [ref=f7e20] [cursor=pointer]:
+              - /url: https://www.linkedin.com/feed/
+              - img "LinkedIn" [ref=f7e23]:
+                - img [ref=f7e24]
+            - button "Click to start a search" [ref=f7e28] [cursor=pointer]:
+              - img [ref=f7e30]
+            - navigation "Primary Navigation" [ref=f7e32]:
+              - list [ref=f7e33]:
+                - listitem [ref=f7e34]:
+                  - link "new feed updates notifications Home" [ref=f7e35] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/
+                    - generic [ref=f7e36]:
+                      - generic [ref=f7e39]: new feed updates notifications
+                      - img [ref=f7e43]
+                    - generic "Home" [ref=f7e45]
+                - listitem [ref=f7e46]:
+                  - link "My Network" [ref=f7e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork/?
+                    - img [ref=f7e51]
+                    - generic "My Network" [ref=f7e53]
+                - listitem [ref=f7e54]:
+                  - link "Jobs" [ref=f7e55] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/?
+                    - img [ref=f7e59]
+                    - generic "Jobs" [ref=f7e61]
+                - listitem [ref=f7e62]:
+                  - link "Messaging" [ref=f7e63] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/?
+                    - img [ref=f7e67]
+                    - generic "Messaging" [ref=f7e69]
+                - listitem [ref=f7e70]:
+                  - link "4 new notifications Notifications" [ref=f7e71] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/?
+                    - generic [ref=f7e72]:
+                      - generic [ref=f7e73]:
+                        - generic [ref=f7e74]: "4"
+                        - generic [ref=f7e75]: 4 new notifications
+                      - img [ref=f7e79]
+                    - generic "Notifications" [ref=f7e81]
+                - listitem [ref=f7e82]:
+                  - button "Sri Vidya Gara Me" [ref=f7e84] [cursor=pointer]:
+                    - img "Sri Vidya Gara" [ref=f7e85]
+                    - generic [ref=f7e86]:
+                      - text: Me
+                      - img [ref=f7e87]
+                - listitem [ref=f7e89]:
+                  - button "For Business" [ref=f7e91] [cursor=pointer]:
+                    - img [ref=f7e95]
+                    - generic "For Business" [ref=f7e97]:
+                      - text: For Business
+                      - img [ref=f7e98]
+                - listitem [ref=f7e100]:
+                  - link "Post a job" [ref=f7e101] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/talent/job-posting-redirect?trk=nav_spotlight_post_job&
+                    - img [ref=f7e105]
+                    - generic "Post a job" [ref=f7e110]

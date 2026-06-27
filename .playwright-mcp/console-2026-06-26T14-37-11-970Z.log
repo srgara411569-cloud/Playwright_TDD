@@ -1,0 +1,49 @@
+[      81ms] [ERROR] Mixed Content: The page at 'https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Nunito:400,700,300'. This request has been blocked; the content must be served over HTTPS. @ https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2:0
+[      81ms] [ERROR] Mixed Content: The page at 'https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Oxygen:400,300,700'. This request has been blocked; the content must be served over HTTPS. @ https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2:0
+[     426ms] Invalid or unexpected token
+[     424ms] [LOG] Searching for header... @ https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2:6
+[    1713ms] [LOG] ipGeolocation Hyderabad, Telangana, IN @ https://careers.qualcomm.com/gen/js/pcsxPwa.f3f48bd0e926c5424d64.js:8
+[    1713ms] [LOG] ipGeolocationLatLong 17.3724,78.4378 @ https://careers.qualcomm.com/gen/js/pcsxPwa.f3f48bd0e926c5424d64.js:8
+[    2045ms] [LOG] Searching for header... @ https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2:6
+[    2482ms] [INFO] [PAGE CONTEXT]: usePage should be used inside PageContext @ https://careers.qualcomm.com/gen/js/navbar.d747b21342d6a22c3bdb.js:4
+[    2484ms] [INFO] [PAGE CONTEXT]: usePage should be used inside PageContext @ https://careers.qualcomm.com/gen/js/navbar.d747b21342d6a22c3bdb.js:4
+[    2493ms] [INFO] [PAGE CONTEXT]: usePage should be used inside PageContext @ https://careers.qualcomm.com/gen/js/navbar.d747b21342d6a22c3bdb.js:4
+[    2663ms] [LOG] Banner injected successfully after: JSHandle@node @ https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2:6
+[    4182ms] TypeError: Cannot read properties of undefined (reading 'innerHTML')
+    at https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2:6:11919
+[    4652ms] [ERROR] Access to XMLHttpRequest at 'https://login.microsoftonline.com/98e9ba89-e1a1-4e38-9007-8bdabc25de1d/saml2?SAMLRequest=fVLLbtswELz7KwTd9YxqS4TtQo3T1oBrC7HbQy8BRa5sAhTpcKk0%2FfuSSvM6xARBgMuZ2d1ZzpH28kzqwZ7ULdwPgHYSBI%2B9VEjGp0U4GEU0RYFE0R6QWEb29Y8NyeOUnI22mmkZviNd5lBEMFZo5Unr1SLcbW82u2%2Fr7V3J0rabsYJXrKOsS1tgJetmObAizXPqdpWVUJSe%2BAsMOo1F6CT9PQgaox8EB7N1GRfhjTiebKclH7MgDrBWaKmyjpHm0yidRvn0kBXkqiTZ9LdHrVzzQlE7yp6sPSNJEqmPQsW9YEaj7qxWUiiIme6TqoSqpWUVQUazqICrMqrSdBaVLactyz9xyHji7ci9ePPfqS9CcaGOly1qn0BIvh8OTdTs9gcvUT8bd60VDj2YPZgHweDn7ea13vuBSlddH8OzATEVCaK%2Bo27GnynDxQvEHeFy9G7u6ySjTWZ5UWqevIW%2Bks%2FE%2B75eNVoK9neM%2B%2FVVm57aj7vN4myMCB51I5RAT4WsOTeAGL7o1FLqP9cGqHWztWaAMEiWk8lTNe%2F%2F7%2FIf&RelayState=http%3A%2F%2Fcareers.qualcomm.com%2Fapi%2Fpcsx%2Fnotifications_boot_data' (redirected from 'https://careers.qualcomm.com/api/pcsx/notifications_boot_data') from origin 'https://careers.qualcomm.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2:0
+[    4654ms] [LOG] Error fetching notifications boot data: tt @ https://careers.qualcomm.com/gen/js/pcsxPwa.f3f48bd0e926c5424d64.js:8
+[    4655ms] [LOG] Failed to fetch notifications boot data: Failed to fetch notifications boot data @ https://careers.qualcomm.com/gen/js/pcsxPwa.f3f48bd0e926c5424d64.js:8
+[    4655ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://login.microsoftonline.com/98e9ba89-e1a1-4e38-9007-8bdabc25de1d/saml2?SAMLRequest=fVLLbtswELz7KwTd9YxqS4TtQo3T1oBrC7HbQy8BRa5sAhTpcKk0%2FfuSSvM6xARBgMuZ2d1ZzpH28kzqwZ7ULdwPgHYSBI%2B9VEjGp0U4GEU0RYFE0R6QWEb29Y8NyeOUnI22mmkZviNd5lBEMFZo5Unr1SLcbW82u2%2Fr7V3J0rabsYJXrKOsS1tgJetmObAizXPqdpWVUJSe%2BAsMOo1F6CT9PQgaox8EB7N1GRfhjTiebKclH7MgDrBWaKmyjpHm0yidRvn0kBXkqiTZ9LdHrVzzQlE7yp6sPSNJEqmPQsW9YEaj7qxWUiiIme6TqoSqpWUVQUazqICrMqrSdBaVLactyz9xyHji7ci9ePPfqS9CcaGOly1qn0BIvh8OTdTs9gcvUT8bd60VDj2YPZgHweDn7ea13vuBSlddH8OzATEVCaK%2Bo27GnynDxQvEHeFy9G7u6ySjTWZ5UWqevIW%2Bks%2FE%2B75eNVoK9neM%2B%2FVVm57aj7vN4myMCB51I5RAT4WsOTeAGL7o1FLqP9cGqHWztWaAMEiWk8lTNe%2F%2F7%2FIf&RelayState=http%3A%2F%2Fcareers.qualcomm.com%2Fapi%2Fpcsx%2Fnotifications_boot_data:0
+[    7520ms] [INFO] [PAGE CONTEXT]: usePage should be used inside PageContext @ https://careers.qualcomm.com/gen/js/navbar.d747b21342d6a22c3bdb.js:4
+[   10763ms] TypeError: Cannot read properties of undefined (reading 'innerHTML')
+    at https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2:6:18491
+[   10920ms] [INFO] [PAGE CONTEXT]: usePage should be used inside PageContext @ https://careers.qualcomm.com/gen/js/navbar.d747b21342d6a22c3bdb.js:4
+[   11647ms] TypeError: Cannot read properties of undefined (reading 'innerHTML')
+    at https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2:6:18491
+[   13061ms] [INFO] [PAGE CONTEXT]: usePage should be used inside PageContext @ https://careers.qualcomm.com/gen/js/navbar.d747b21342d6a22c3bdb.js:4
+[   13074ms] [INFO] [PAGE CONTEXT]: usePage should be used inside PageContext @ https://careers.qualcomm.com/gen/js/navbar.d747b21342d6a22c3bdb.js:4
+[   14919ms] TypeError: Cannot read properties of undefined (reading 'innerHTML')
+    at https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2:6:18491
+[   17704ms] TypeError: Cannot read properties of undefined (reading 'innerHTML')
+    at https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2:6:18491
+[   17728ms] TypeError: Cannot read properties of undefined (reading 'innerHTML')
+    at https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2:6:18491
+[   21722ms] TypeError: Cannot read properties of undefined (reading 'innerHTML')
+    at https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2:6:18491
+[   21735ms] TypeError: Cannot read properties of undefined (reading 'innerHTML')
+    at https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2:6:18491
+[   24833ms] TypeError: Cannot read properties of undefined (reading 'innerHTML')
+    at https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2:6:18491
+[   24834ms] TypeError: Cannot read properties of undefined (reading 'innerHTML')
+    at https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2:6:18491
+[   30000ms] [INFO] [PAGE CONTEXT]: usePage should be used inside PageContext @ https://careers.qualcomm.com/gen/js/navbar.d747b21342d6a22c3bdb.js:4
+[   30460ms] [INFO] [PAGE CONTEXT]: usePage should be used inside PageContext @ https://careers.qualcomm.com/gen/js/navbar.d747b21342d6a22c3bdb.js:4
+[   36148ms] TypeError: Cannot read properties of undefined (reading 'innerHTML')
+    at https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2:6:18491
+[   36149ms] TypeError: Cannot read properties of undefined (reading 'innerHTML')
+    at https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2:6:18491
+[   37878ms] TypeError: Cannot read properties of undefined (reading 'innerHTML')
+    at https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2:6:18491
+[   37881ms] TypeError: Cannot read properties of undefined (reading 'innerHTML')
+    at https://careers.qualcomm.com/careers/job/446718385324?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2:6:18491
